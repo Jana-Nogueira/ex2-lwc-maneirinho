@@ -1,0 +1,7 @@
+{
+  "name": "@wcd/jana-nogueira.lwc-l8diee5n",
+  "version": "0.0.0",
+  "scripts": {
+    "serve": "npx wcd-cli@latest serve sc5JlmmDfKFou3OGXiDt --open"
+  }
+}
